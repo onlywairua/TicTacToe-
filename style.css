@@ -91,6 +91,7 @@ body {
 @media (max-width: 600px) {
     .board {
         max-width: 100%;
+        justify-content: center;
     }
 
     .scoreboard {
