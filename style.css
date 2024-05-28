@@ -101,4 +101,11 @@ body {
     .cell {
         font-size: 1.5em;
     }
+    #startButton {
+        margin: 3px;
+    }
+    .gameArea {
+        display: flex;
+        flex-direction: column;
+    }
 }
